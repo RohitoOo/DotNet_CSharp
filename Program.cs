@@ -48,6 +48,30 @@ namespace CSharp
             {
                 string input = Console.ReadLine();
 
+
+                // Check if input is in the correct format 
+
+                 if ( !int.TryParse(input, out guess) )
+                { 
+
+                    // Change Text Color
+                    Console.ForegroundColor = ConsoleColor.DarkYellow;
+
+                    // Write out App Variales 
+                    Console.WriteLine( input + " !! Really! " + inputName + ". Enter an actual number. You dummy!!!");
+
+                    // Reset Color 
+                    Console.ResetColor();
+
+                    // Keep Going
+                    continue;
+                }
+
+
+
+
+
+
                 // Cast to int and make as value for guess variable 
 
                 guess = Int32.Parse(input);
@@ -59,10 +83,10 @@ namespace CSharp
                 {
 
                     // Change Text Color
-                    Console.ForegroundColor = ConsoleColor.Yellow;
+                    Console.ForegroundColor = ConsoleColor.Blue;
 
                     // Write out App Variales 
-                    Console.WriteLine(guess + " is the not between 1 and 15 , " + inputName + ". You dummy!");
+                    Console.WriteLine(guess + " is the not between 1 and 15 , " + inputName + ". You dummy!!!");
 
                     // Reset Color 
                     Console.ResetColor();
