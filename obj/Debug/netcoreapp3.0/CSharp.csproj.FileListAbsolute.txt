@@ -1,0 +1,11 @@
+/Users/rohito/Documents/Projects/CSharp/bin/Debug/netcoreapp3.0/CSharp
+/Users/rohito/Documents/Projects/CSharp/bin/Debug/netcoreapp3.0/CSharp.deps.json
+/Users/rohito/Documents/Projects/CSharp/bin/Debug/netcoreapp3.0/CSharp.runtimeconfig.json
+/Users/rohito/Documents/Projects/CSharp/bin/Debug/netcoreapp3.0/CSharp.runtimeconfig.dev.json
+/Users/rohito/Documents/Projects/CSharp/bin/Debug/netcoreapp3.0/CSharp.dll
+/Users/rohito/Documents/Projects/CSharp/bin/Debug/netcoreapp3.0/CSharp.pdb
+/Users/rohito/Documents/Projects/CSharp/obj/Debug/netcoreapp3.0/CSharp.csprojAssemblyReference.cache
+/Users/rohito/Documents/Projects/CSharp/obj/Debug/netcoreapp3.0/CSharp.AssemblyInfoInputs.cache
+/Users/rohito/Documents/Projects/CSharp/obj/Debug/netcoreapp3.0/CSharp.AssemblyInfo.cs
+/Users/rohito/Documents/Projects/CSharp/obj/Debug/netcoreapp3.0/CSharp.dll
+/Users/rohito/Documents/Projects/CSharp/obj/Debug/netcoreapp3.0/CSharp.pdb
